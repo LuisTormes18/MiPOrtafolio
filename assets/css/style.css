@@ -121,7 +121,7 @@ body {
 .header-title .icons-tilte li a {
 	text-decoration: none;
 	/* font-size: 20px; */
-	font-size: 35px;
+	font-size: 40px;
 	color: rgb(6, 84, 136);
 }
 .header-title .icons-tilte li a:hover {
@@ -408,7 +408,7 @@ margin: auto; */
 	margin: 10px;
 	padding: 10px;
 	font-size: 15px;
-	display: inline-block;
+	display: block;
 	/* background: red; */
 	color: var(--bacground-color-secundario);
 	/* color: var(--color-title); */
@@ -418,11 +418,12 @@ margin: auto; */
 }
 .contact-datos .redes li {
 	margin: 0;
-	padding: 5;
+	padding: 7px;
 	display: block;
 }
 .contact-datos .redes li a {
 	color: var(--bacground-color-secundario);
+	font-size: 18px;
 }
 .container-contact .footer {
 	padding: 15px 0px;

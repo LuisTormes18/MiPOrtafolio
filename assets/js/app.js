@@ -24,4 +24,8 @@ const validateForm = () => {
 	const emailForm = document.getElementById("email").value;
 	const asuntoForm = document.getElementById("asunto").value;
 	const messageForm = document.getElementById("message").value;
+
+	let emailDestino = '';
+
+	
 };
